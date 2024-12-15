@@ -34,8 +34,8 @@
 
 ### API
 
-* GET /api/users — Returns a paginated list of users.
-* GET /api/users/{id} — Returns user details by ID.
-* POST /api/users — Creates a new user.
-* PUT /api/users/{id} — Updates user details by ID.
-* DELETE /api/users/{id} — Deletes a user by ID.
+* GET /users — Returns a paginated list of users.
+* GET /users/{id} — Returns user details by ID.
+* POST /users — Creates a new user.
+* PUT /users/{id} — Updates user details by ID.
+* DELETE /users/{id} — Deletes a user by ID.
