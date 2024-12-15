@@ -21,7 +21,7 @@
 
 
 6. Run the database migrations:  
-`./vendor/bin/sail artisan migrate`  
+`./vendor/bin/sail artisan migrate --seed`  
 
 
 ### Once installed, the project will be available at:  
